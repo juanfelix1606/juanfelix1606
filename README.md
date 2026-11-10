@@ -1,4 +1,4 @@
-# Hai, saya Juan Felix Hutapea 👋
+# Hai, saya Juan Felix 👋
 
 Mahasiswa Informatika yang tertarik pada pengembangan **fullstack** dengan React, TypeScript, Node.js, dan PostgreSQL. Saya sedang mencari kesempatan magang atau posisi junior.
 
